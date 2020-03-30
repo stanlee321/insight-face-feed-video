@@ -1,0 +1,3 @@
+insightface
+conda install -c anaconda cudatoolkit==9.0
+mxnet_cu90
